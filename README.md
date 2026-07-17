@@ -1,5 +1,7 @@
-# qilva
+# Qilva
 Qilva™ — Intelligent AI Assistant for Qwova
+
+![Qilva Logo](qilva-logo.png)
 
 
 # Qilva™
